@@ -33,15 +33,6 @@ DirAct는 연습 영상 리뷰와 피드백 공유 과정에서 발생하는 커
 - Feature 2: 타임스탬프 기반 영상 피드백 시스템 (피드백 제공자, 수용자 UX 설계)
 - Feature 3: 영상 위 드로잉 어노테이션 (시각적 설명 수단을 제공)
 
-## 📱 Screenshots
-
-<!-- TODO: 스크린샷 4장 정도. assets/ 폴더에 올리고 경로 교체 -->
-<div align="center">
-  <img src="./assets/screenshot_1.png" width="22%" alt="Screenshot 1" />
-  <img src="./assets/screenshot_2.png" width="22%" alt="Screenshot 2" />
-  <img src="./assets/screenshot_3.png" width="22%" alt="Screenshot 3" />
-  <img src="./assets/screenshot_4.png" width="22%" alt="Screenshot 4" />
-</div>
 
 ## 🛠 Tech Stack
 
@@ -53,6 +44,14 @@ DirAct는 연습 영상 리뷰와 피드백 공유 과정에서 발생하는 커
 | **Collaboration** | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) |
 
 ---
+
+## 📚 초기 DirAct팀의 여정
+
+[DirAct의 여정을 살펴보세요](https://www.figma.com/design/cnhKICzxCT5wdRBHsQ7SDT/DirAct%EC%9D%98-%EC%97%AC%EC%A0%95?node-id=0-1&p=f&t=shxJx6is4XsyJ8gA-0)
+
+---
+
+[DirAct의 여정을 살펴보세요](https://www.figma.com/design/cnhKICzxCT5wdRBHsQ7SDT/DirAct%EC%9D%98-%EC%97%AC%EC%A0%95?node-id=0-1&p=f&t=shxJx6is4XsyJ8gA-0)
 
 ## 👥 Team
 
