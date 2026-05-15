@@ -109,7 +109,7 @@ DirAct의 시작을 함께한 아카데미 팀원들. iOS / Android 네이티브
 
 ### 🌿 Branch Strategy
 - `main` — 배포 가능한 안정 브랜치 (보호됨)
-- `develop` — 통합 개발 브랜치
+- `dev` — 통합 개발 브랜치
 - `feat/<scope>` · `fix/<scope>` · `chore/<scope>` — 작업 단위 브랜치
 - 머지는 **Squash & Merge**를 기본으로 합니다.
 
