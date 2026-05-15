@@ -51,8 +51,6 @@ DirAct는 연습 영상 리뷰와 피드백 공유 과정에서 발생하는 커
 
 ---
 
-[DirAct의 여정을 살펴보세요](https://www.figma.com/design/cnhKICzxCT5wdRBHsQ7SDT/DirAct%EC%9D%98-%EC%97%AC%EC%A0%95?node-id=0-1&p=f&t=shxJx6is4XsyJ8gA-0)
-
 ## 👥 Team
 
 ### 🍎 Original Team — Native (2024 – 2025)
