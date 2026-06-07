@@ -63,7 +63,6 @@ DirAct의 시작을 함께한 아카데미 팀원들. iOS / Android 네이티브
 | iOS | 조재훈 | [카단](https://github.com/jHoon99) |
 | iOS | 김준구 | [파이디온](https://github.com/devPaidion) |
 | Android | 백서영 | [백서영](https://github.com/BaekCCI) |
-| Android | 김병관 | [백서영](https://github.com/BaekCCI) |
 | Design | 김경주 | [제이콥](https://github.com/Gimgang00) |
 | Design | 이주은 | [줄리앤](https://github.com/Julianne0101) |
 | PM | 배연경 | [리비](https://github.com/ykbeeee) |
