@@ -76,11 +76,11 @@ DirAct의 시작을 함께한 아카데미 팀원들. iOS / Android 네이티브
 | Mobile / Maintainer | 조재훈 | [@jHoon99](https://github.com/jHoon99) |
 
 ### 🚀 Backend — 2026 ~
-->
+-> Spring Boot 기반 REST API 서버 개발 및 운영.
 
 | Role | Name | GitHub |
 |---|---|---|
-| ? / ? | 강현호 |  |
+| Backend / Maintainer | 강현호 | [@hinoyat](https://github.com/hinoyat) |
 
 ---
 
